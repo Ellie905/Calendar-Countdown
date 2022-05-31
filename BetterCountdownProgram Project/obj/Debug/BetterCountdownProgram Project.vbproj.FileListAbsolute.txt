@@ -1,0 +1,13 @@
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram Project.vbprojResolveAssemblyReference.cache
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram.Form1.resources
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram.Resources.resources
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram Project.vbproj.GenerateResource.Cache
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram Project.vbproj.CoreCompileInputs.cache
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\bin\Debug\BetterCountdownProgram Project.exe.config
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\bin\Debug\BetterCountdownProgram Project.exe
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\bin\Debug\BetterCountdownProgram Project.pdb
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\bin\Debug\BetterCountdownProgram Project.xml
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram Project.exe
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram Project.xml
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram Project.pdb
+C:\Users\Dallas\source\repos\BetterCountdownProgram Solution\BetterCountdownProgram Project\obj\Debug\BetterCountdownProgram.frmCountdown.resources
